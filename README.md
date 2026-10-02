@@ -188,23 +188,4 @@ All scripts write their metrics to `outputs/*.json`.
   (Adam, lr = 1e-4, batch size = 64, weight decay = 1e-5, dropout = 0.2,
   max 100 epochs, early-stopping patience = 15).
 
-## Citation
 
-If you use this code, please cite the accompanying manuscript:
-
-```bibtex
-@article{rafognet2026,
-  title   = {Explainable Reliability-Aware Multimodal Deep Sensor Fusion
-             for Predictive Fog Risk Assessment in Intelligent
-             Transportation Systems},
-  author  = {Palani, S and Babu, Nirmal Varghese and Jemima, Darling D
-             and Arumugam, Sajeev Ram},
-  journal = {Journal of XYZ},
-  year    = {2026}
-}
-```
-
-## License
-
-Add your preferred license (e.g., MIT or Apache-2.0) before publishing the
-repository publicly.
